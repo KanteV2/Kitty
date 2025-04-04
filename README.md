@@ -12,4 +12,4 @@ Kitty will most likely *NOT* be as overpowered as other menus, such as
 - Possibly others.
 
 
- - ![image](https://github.com/user-attachments/assets/e71c67df-f672-44e5-938c-ba0839cc1165)
+![image](https://github.com/user-attachments/assets/e71c67df-f672-44e5-938c-ba0839cc1165)
